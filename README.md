@@ -11,8 +11,7 @@ Welcome to my GitHub profile! I’m a passionate **Frontend Web Developer** and 
 
 ## Technologies & Tools  
 - **Languages:** HTML, CSS, JavaScript  
-- **Tools & Platforms:**Sublime, GitHub, Figma  
-- *(Add more as you grow!)*  
+- **Tools & Platforms:**Sublime, GitHub and Figma   
 
 ## 📌 Current Focus  
 I’m currently working on enhancing my JavaScript skills and learning modern frameworks like **React** and **Tailwind CSS** to build more dynamic and responsive web applications.

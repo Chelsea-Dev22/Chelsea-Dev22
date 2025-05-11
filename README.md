@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there I'm Ukam Chelsea👋
+ 
+Welcome to my GitHub profile! I’m a passionate **Frontend Web Developer** and **UI/UX Designer** with a growing love for creating beautiful, functional, and user-friendly web experiences.
 
-<!--
-**Chelsea-Dev22/Chelsea-Dev22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+- 🌱 I’m currently studying **Computer Science** (300 Level)
+- 💻 I'm skilled in **HTML**, **CSS**, and **JavaScript**
+- 🎨 I'm also passionate about transforming web design ideas into real, interactive websites
+- 📚 I'm open to learning new tools, frameworks, and design techniques
+- ⚡ Fun fact: I enjoy working on personal projects and exploring new design trends  
 
-Here are some ideas to get you started:
+## Technologies & Tools  
+- **Languages:** HTML, CSS, JavaScript  
+- **Tools & Platforms:**Sublime, GitHub, Figma  
+- *(Add more as you grow!)*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Focus  
+I’m currently working on enhancing my JavaScript skills and learning modern frameworks like **React** and **Tailwind CSS** to build more dynamic and responsive web applications.
+
+## 📫 Connect with Me  
+- [LinkedIn]([Your-LinkedIn-URL](https://www.linkedin.com/in/ukam-chelsea-08849324b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))
+
+Thanks for stopping by!
+
+
